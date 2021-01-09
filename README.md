@@ -1,3 +1,6 @@
+# A Simple Progressive Weather App
+## Deployed at Web [see live](https://weather24-7.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
